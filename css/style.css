@@ -1,0 +1,24 @@
+.container {
+  margin: 20px 0px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.name_div .name_input {
+  display: flex;
+  width: 300px;
+}
+
+.name_search_div .search_name_input {
+    display: flex;
+    width: 300px;
+  }
+
+  .card_container{
+    display:block;
+  }
+
+  .name_update_btn{
+  
+  }
+  
